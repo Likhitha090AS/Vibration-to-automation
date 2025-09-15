@@ -68,14 +68,6 @@ This project presents a **fully automated railway level crossing gate system** t
 
 ---
 
-## 👥 Team Members
-- [Name 1] – Hardware & Sensor Integration  
-- [Name 2] – LoRa Communication & Networking  
-- [Name 3] – Microcontroller Programming  
-- [Name 4] – Presentation & Documentation  
-
----
-
 ## 🔧 Tools & Technologies
 - Arduino UNO / ESP32  
 - MPU-9250 (Vibration Sensor)  
